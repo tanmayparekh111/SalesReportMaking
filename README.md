@@ -3,6 +3,9 @@ This is the coding portion and report is generated in powerbi
 
 *****************************************************************************************************************
 PYTHON CLEANING AND DATA PREPARING PART
+Note: Here in DataSet folder you will only see one csv file because of the file sizes are greater than 25mb
+      any one can download this code and if run in local with providing the database connection details in the 
+      GetData.py this will work perfectly fine.
 *****************************************************************************************************************
 here i have 1project folder named DATAANALYSISINTERVIEW
 in which i have made 3python files
